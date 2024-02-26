@@ -7,13 +7,9 @@ startButton.addEventListener('click', function()  {
     result = dayjs(prompt("Приклад введення: рік-місяць"),'-01').daysInMonth()
 
     var script1 = document.getElementById("script1");
-    var text1 = "В заданому місяці ";
-    var text2 = " днів"; 
-    script1.innerHTML = text1 + result + text2;
+    var text1 = "Останній день місяця: ";
+    script1.innerHTML = text1 + result;
 })
-
-
-
 
 
 

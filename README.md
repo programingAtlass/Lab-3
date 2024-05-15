@@ -9,3 +9,5 @@
 - using a significant number of methods for editing, adding, subtracting, converting time and/or date 📆
 - combining the code into a single whole and creating a full-fledged project 📈
 - adaptation for mobile devices (styles may not work correctly on some devices) 📱
+
+🔗 Also available on GitHub Pages: https://programingatlass.github.io/Lab-3/
